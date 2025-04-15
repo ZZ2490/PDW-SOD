@@ -1,6 +1,6 @@
 # 原型动态加权的多模态显著性目标检测
 
-  ![Image text](https://github.com/ZZ2490/SPNet/blob/main/f2.png)
+  ![Image text](https://github.com/ZZ2490/PDW-SOD/总体框架1)
 The overall architecture.
 ## Environment
 ### Requirements
